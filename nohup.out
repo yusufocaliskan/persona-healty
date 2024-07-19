@@ -1,0 +1,43 @@
+[2024-07-19 17:45:47 +0000] [8418] [INFO] Starting gunicorn 22.0.0
+[2024-07-19 17:45:47 +0000] [8418] [INFO] Listening at: http://127.0.0.1:8083 (8418)
+[2024-07-19 17:45:47 +0000] [8418] [INFO] Using worker: gevent
+[2024-07-19 17:45:47 +0000] [8419] [INFO] Booting worker with pid: 8419
+[2024-07-19 17:45:47 +0000] [8420] [INFO] Booting worker with pid: 8420
+[2024-07-19 17:45:47 +0000] [8421] [INFO] Booting worker with pid: 8421
+[2024-07-19 17:45:47 +0000] [8422] [INFO] Booting worker with pid: 8422
+[2024-07-19 17:45:47 +0000] [8423] [INFO] Booting worker with pid: 8423
+[2024-07-19 17:45:47 +0000] [8424] [INFO] Booting worker with pid: 8424
+[2024-07-19 17:45:47 +0000] [8425] [INFO] Booting worker with pid: 8425
+[2024-07-19 17:45:47 +0000] [8426] [INFO] Booting worker with pid: 8426
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/__init__.py:34: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/__init__.py:34: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/__init__.py:34: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/__init__.py:34: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/__init__.py:34: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/__init__.py:34: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/__init__.py:34: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/__init__.py:34: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+[2024-07-19 17:48:28 +0000] [8449] [INFO] Starting gunicorn 22.0.0
+[2024-07-19 17:48:28 +0000] [8449] [ERROR] Connection in use: ('127.0.0.1', 8083)
+[2024-07-19 17:48:28 +0000] [8449] [ERROR] Retrying in 1 second.
+[2024-07-19 17:48:29 +0000] [8449] [ERROR] Connection in use: ('127.0.0.1', 8083)
+[2024-07-19 17:48:29 +0000] [8449] [ERROR] Retrying in 1 second.
+[2024-07-19 17:48:30 +0000] [8449] [ERROR] Connection in use: ('127.0.0.1', 8083)
+[2024-07-19 17:48:30 +0000] [8449] [ERROR] Retrying in 1 second.
+[2024-07-19 17:48:31 +0000] [8449] [ERROR] Connection in use: ('127.0.0.1', 8083)
+[2024-07-19 17:48:31 +0000] [8449] [ERROR] Retrying in 1 second.
+[2024-07-19 17:48:32 +0000] [8449] [ERROR] Connection in use: ('127.0.0.1', 8083)
+[2024-07-19 17:48:32 +0000] [8449] [ERROR] Retrying in 1 second.
+[2024-07-19 17:48:33 +0000] [8449] [ERROR] Can't connect to ('127.0.0.1', 8083)
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/chains/llm.py:316: UserWarning: The predict_and_parse method is deprecated, instead pass an output parser directly to LLMChain.
+  warnings.warn(
+/home/persona/prs-env/lib/python3.10/site-packages/langchain/chains/llm.py:316: UserWarning: The predict_and_parse method is deprecated, instead pass an output parser directly to LLMChain.
+  warnings.warn(

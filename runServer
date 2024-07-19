@@ -1,0 +1,2 @@
+#!/bin/bash
+nohup gunicorn -b 127.0.0.1:8083 app:app --timeout 300 --workers 8 --worker-class gevent &
